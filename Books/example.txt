@@ -1,0 +1,3 @@
+This path can be filled with text files for different books. I found it easier to download text files from Project Guttenberg and dump them into this path. I did not include the books with this code repository since they are easily accessible, and they are not works that I have written myself.
+
+Project Gutenberg: https://www.gutenberg.org
