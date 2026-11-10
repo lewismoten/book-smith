@@ -1,3 +1,5 @@
+![book-smith: Random sentences from Project Gutenberg books](docs/images/social-preview.png)
+
 Book Smith
 ----------
 
